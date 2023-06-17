@@ -65,27 +65,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/media/keroles/CS/Projects/Problem-Solving-using-php",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/keroles/CS/Projects/Problem-Solving-using-php&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Problems" />
+    </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.TwoSumTests.test_solving_two_sum_problem_case_3">
+  <component name="RunManager" selected="PHPUnit.TwoSumTests">
     <configuration name="TwoSumTests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="Tests\TwoSumTests" file="$PROJECT_DIR$/Tests/TwoSumTests.php" scope="Class" />
       <method v="2" />
@@ -104,9 +107,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.TwoSumTests" />
         <item itemvalue="PHPUnit.TwoSumTests.test_solving_two_sum_problem_case_3" />
         <item itemvalue="PHPUnit.TwoSumTests.test_solving_two_sum_problem_case_2" />
-        <item itemvalue="PHPUnit.TwoSumTests" />
         <item itemvalue="PHPUnit.TwoSumTests.test_solving_two_sum_problem" />
       </list>
     </recent_temporary>
@@ -119,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687032949603</updated>
-      <workItem from="1687032952716" duration="2390000" />
+      <workItem from="1687032952716" duration="2586000" />
     </task>
     <servers />
   </component>
