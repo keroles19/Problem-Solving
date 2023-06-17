@@ -1,0 +1,19 @@
+{
+    "name": "keroles/problem-solving-using-php",
+    "description": "problem solving using php 8.1",
+    "autoload": {
+        "psr-4": {
+            "Problems\\" : "Problems"
+        }
+    },
+    "authors": [
+        {
+            "name": "keroles19",
+            "email": "kerolesatef200@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "9.5"
+    },
+    "require": {}
+}
