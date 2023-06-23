@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5868ad96-9a7e-4368-bb0f-35ddffb99356" name="Changes" comment="" />
+    <list default="true" id="5868ad96-9a7e-4368-bb0f-35ddffb99356" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Problems/ReplaceWithGreatestElementOnRightSide.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/MergeStringsAlternately.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/ReplaceWithGreatestElementOnRightSide.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +78,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/media/keroles/CS/Projects/Problem-Solving-using-php&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/keroles/CS/Projects/Problem-Solving-using-php/Problems&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -82,19 +89,24 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Problems" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Problems" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.TwoSumTests">
-    <configuration name="TwoSumTests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\TwoSumTests" file="$PROJECT_DIR$/Tests/TwoSumTests.php" scope="Class" />
+  <component name="RunManager">
+    <configuration name="ReplaceWithGreatestElementOnRightSide.test_solving_replace_with_greatest_element_on_right_side" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\ReplaceWithGreatestElementOnRightSide" file="$PROJECT_DIR$/Tests/ReplaceWithGreatestElementOnRightSide.php" method="test_solving_replace_with_greatest_element_on_right_side" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="TwoSumTests.test_solving_two_sum_problem" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\TwoSumTests" file="$PROJECT_DIR$/Tests/TwoSumTests.php" method="test_solving_two_sum_problem" scope="Method" />
+    <configuration name="ReplaceWithGreatestElementOnRightSide.test_solving_replace_with_greatest_element_on_right_side_2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\ReplaceWithGreatestElementOnRightSide" file="$PROJECT_DIR$/Tests/ReplaceWithGreatestElementOnRightSide.php" method="test_solving_replace_with_greatest_element_on_right_side_2" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TwoSumTests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\TwoSumTests" file="$PROJECT_DIR$/Tests/TwoSumTests.php" scope="Class" />
       <method v="2" />
     </configuration>
     <configuration name="TwoSumTests.test_solving_two_sum_problem_case_2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
@@ -107,10 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.ReplaceWithGreatestElementOnRightSide.test_solving_replace_with_greatest_element_on_right_side_2" />
+        <item itemvalue="PHPUnit.ReplaceWithGreatestElementOnRightSide.test_solving_replace_with_greatest_element_on_right_side" />
         <item itemvalue="PHPUnit.TwoSumTests" />
         <item itemvalue="PHPUnit.TwoSumTests.test_solving_two_sum_problem_case_3" />
         <item itemvalue="PHPUnit.TwoSumTests.test_solving_two_sum_problem_case_2" />
-        <item itemvalue="PHPUnit.TwoSumTests.test_solving_two_sum_problem" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +136,10 @@
       <option name="presentableId" value="Default" />
       <updated>1687032949603</updated>
       <workItem from="1687032952716" duration="2586000" />
+      <workItem from="1687035575595" duration="1370000" />
+      <workItem from="1687126273603" duration="1406000" />
+      <workItem from="1687540746821" duration="2236000" />
+      <workItem from="1687553172505" duration="623000" />
     </task>
     <servers />
   </component>
