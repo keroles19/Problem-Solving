@@ -5,6 +5,9 @@
  - [X] Two Sum   `https://leetcode.com/problems/two-sum`
  - [X] Merge Strings Alternately  `https://leetcode.com/problems/merge-strings-alternately`
  - [X] Replace Elements with Greatest Element on Right Side `https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side`
+ - [x] return the length of the last word in the string. `https://leetcode.com/problems/length-of-last-word/`
+
+
 
 
 ## Setup
