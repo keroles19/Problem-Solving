@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5868ad96-9a7e-4368-bb0f-35ddffb99356" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/LengthOfLastWord.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/LengthOfLastWord.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/LongestCommonPrefix.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/LongestCommonPrefix.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -94,7 +94,7 @@
       <recent name="$PROJECT_DIR$/Problems" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.LengthOfLastWord">
+  <component name="RunManager" selected="PHPUnit.LongestCommonPrefix.test_case_1">
     <configuration name="LengthOfLastWord" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="Tests\LengthOfLastWord" file="$PROJECT_DIR$/Tests/LengthOfLastWord.php" scope="Class" />
       <method v="2" />
@@ -103,25 +103,25 @@
       <TestRunner class="Tests\LengthOfLastWord" file="$PROJECT_DIR$/Tests/LengthOfLastWord.php" method="test_case_1" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="ReplaceWithGreatestElementOnRightSide.test_solving_replace_with_greatest_element_on_right_side" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\ReplaceWithGreatestElementOnRightSide" file="$PROJECT_DIR$/Tests/ReplaceWithGreatestElementOnRightSide.php" method="test_solving_replace_with_greatest_element_on_right_side" scope="Method" />
+    <configuration name="LongestCommonPrefix.test_case_1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\LongestCommonPrefix" file="$PROJECT_DIR$/Tests/LongestCommonPrefix.php" method="test_case_1" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="ReplaceWithGreatestElementOnRightSide.test_solving_replace_with_greatest_element_on_right_side_2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\ReplaceWithGreatestElementOnRightSide" file="$PROJECT_DIR$/Tests/ReplaceWithGreatestElementOnRightSide.php" method="test_solving_replace_with_greatest_element_on_right_side_2" scope="Method" />
+    <configuration name="LongestCommonPrefix.test_case_2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\LongestCommonPrefix" file="$PROJECT_DIR$/Tests/LongestCommonPrefix.php" method="test_case_2" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="TwoSumTests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\TwoSumTests" file="$PROJECT_DIR$/Tests/TwoSumTests.php" scope="Class" />
+    <configuration name="LongestCommonPrefix.test_case_3" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\LongestCommonPrefix" file="$PROJECT_DIR$/Tests/LongestCommonPrefix.php" method="test_case_3" scope="Method" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.LongestCommonPrefix.test_case_1" />
+        <item itemvalue="PHPUnit.LongestCommonPrefix.test_case_2" />
+        <item itemvalue="PHPUnit.LongestCommonPrefix.test_case_3" />
         <item itemvalue="PHPUnit.LengthOfLastWord.test_case_1" />
         <item itemvalue="PHPUnit.LengthOfLastWord" />
-        <item itemvalue="PHPUnit.ReplaceWithGreatestElementOnRightSide.test_solving_replace_with_greatest_element_on_right_side_2" />
-        <item itemvalue="PHPUnit.ReplaceWithGreatestElementOnRightSide.test_solving_replace_with_greatest_element_on_right_side" />
-        <item itemvalue="PHPUnit.TwoSumTests" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <workItem from="1687540746821" duration="2236000" />
       <workItem from="1687553172505" duration="3440000" />
       <workItem from="1687556956876" duration="33000" />
-      <workItem from="1689539497010" duration="234000" />
+      <workItem from="1689539497010" duration="1682000" />
     </task>
     <servers />
   </component>
