@@ -8,6 +8,7 @@
  - [x] return the length of the last word in the string. `https://leetcode.com/problems/length-of-last-word/`
  - [x] Longest Common Prefix . `https://leetcode.com/problems/longest-common-prefix/`
  - [x] Is Subsequence . `https://leetcode.com/problems/is-subsequence/`
+ - [x] pascals-triangle . `https://leetcode.com/problems/pascals-triangle/`
 
 
 

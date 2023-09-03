@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5868ad96-9a7e-4368-bb0f-35ddffb99356" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/IsSubsequence.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/PascalTriangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/PascalTriangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php-test-framework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -64,6 +66,10 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/type" />
     </include_path>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2RLckvPG5YRniXZHGKJ3r5g3x0T" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -93,7 +99,7 @@
       <recent name="$PROJECT_DIR$/Problems" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.IsSubsequence.test_case_2">
+  <component name="RunManager" selected="PHPUnit.PascalTriangle.test_case_2">
     <configuration name="IsSubsequence.test_case_1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="Tests\IsSubsequence" file="$PROJECT_DIR$/Tests/IsSubsequence.php" method="test_case_1" scope="Method" />
       <method v="2" />
@@ -106,21 +112,21 @@
       <TestRunner class="Tests\LongestCommonPrefix" file="$PROJECT_DIR$/Tests/LongestCommonPrefix.php" method="test_case_1" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="LongestCommonPrefix.test_case_2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\LongestCommonPrefix" file="$PROJECT_DIR$/Tests/LongestCommonPrefix.php" method="test_case_2" scope="Method" />
+    <configuration name="PascalTriangle.test_case_1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\PascalTriangle" file="$PROJECT_DIR$/Tests/PascalTriangle.php" method="test_case_1" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="LongestCommonPrefix.test_case_3" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\LongestCommonPrefix" file="$PROJECT_DIR$/Tests/LongestCommonPrefix.php" method="test_case_3" scope="Method" />
+    <configuration name="PascalTriangle.test_case_2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\PascalTriangle" file="$PROJECT_DIR$/Tests/PascalTriangle.php" method="test_case_2" scope="Method" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.PascalTriangle.test_case_2" />
+        <item itemvalue="PHPUnit.PascalTriangle.test_case_1" />
         <item itemvalue="PHPUnit.IsSubsequence.test_case_2" />
         <item itemvalue="PHPUnit.IsSubsequence.test_case_1" />
         <item itemvalue="PHPUnit.LongestCommonPrefix.test_case_1" />
-        <item itemvalue="PHPUnit.LongestCommonPrefix.test_case_2" />
-        <item itemvalue="PHPUnit.LongestCommonPrefix.test_case_3" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +149,7 @@
       <workItem from="1689713057231" duration="1579000" />
       <workItem from="1689927586530" duration="6000" />
       <workItem from="1689927603448" duration="1238000" />
+      <workItem from="1693774135351" duration="1189000" />
     </task>
     <servers />
   </component>
