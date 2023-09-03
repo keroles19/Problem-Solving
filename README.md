@@ -7,6 +7,7 @@
  - [X] Replace Elements with Greatest Element on Right Side `https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side`
  - [x] return the length of the last word in the string. `https://leetcode.com/problems/length-of-last-word/`
  - [x] Longest Common Prefix . `https://leetcode.com/problems/longest-common-prefix/`
+ - [x] Is Subsequence . `https://leetcode.com/problems/is-subsequence/`
 
 
 

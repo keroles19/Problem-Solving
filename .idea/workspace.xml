@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5868ad96-9a7e-4368-bb0f-35ddffb99356" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/LongestCommonPrefix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/LongestCommonPrefix.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/IsSubsequence.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -94,13 +93,13 @@
       <recent name="$PROJECT_DIR$/Problems" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.LongestCommonPrefix.test_case_1">
-    <configuration name="LengthOfLastWord" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\LengthOfLastWord" file="$PROJECT_DIR$/Tests/LengthOfLastWord.php" scope="Class" />
+  <component name="RunManager" selected="PHPUnit.IsSubsequence.test_case_2">
+    <configuration name="IsSubsequence.test_case_1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\IsSubsequence" file="$PROJECT_DIR$/Tests/IsSubsequence.php" method="test_case_1" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="LengthOfLastWord.test_case_1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\LengthOfLastWord" file="$PROJECT_DIR$/Tests/LengthOfLastWord.php" method="test_case_1" scope="Method" />
+    <configuration name="IsSubsequence.test_case_2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\IsSubsequence" file="$PROJECT_DIR$/Tests/IsSubsequence.php" method="test_case_2" scope="Method" />
       <method v="2" />
     </configuration>
     <configuration name="LongestCommonPrefix.test_case_1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.IsSubsequence.test_case_2" />
+        <item itemvalue="PHPUnit.IsSubsequence.test_case_1" />
         <item itemvalue="PHPUnit.LongestCommonPrefix.test_case_1" />
         <item itemvalue="PHPUnit.LongestCommonPrefix.test_case_2" />
         <item itemvalue="PHPUnit.LongestCommonPrefix.test_case_3" />
-        <item itemvalue="PHPUnit.LengthOfLastWord.test_case_1" />
-        <item itemvalue="PHPUnit.LengthOfLastWord" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +138,11 @@
       <workItem from="1687540746821" duration="2236000" />
       <workItem from="1687553172505" duration="3440000" />
       <workItem from="1687556956876" duration="33000" />
-      <workItem from="1689539497010" duration="1682000" />
+      <workItem from="1689539497010" duration="2256000" />
+      <workItem from="1689712932961" duration="100000" />
+      <workItem from="1689713057231" duration="1579000" />
+      <workItem from="1689927586530" duration="6000" />
+      <workItem from="1689927603448" duration="1238000" />
     </task>
     <servers />
   </component>
